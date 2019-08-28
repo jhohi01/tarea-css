@@ -1,0 +1,102 @@
+#contenedor{
+	width: 900px;
+	margin: 0 auto;
+}
+#arriba{
+	width: 1000px;
+	height: 100px;
+	background: #ff00ff;
+	text-align: center;
+	color : red;
+	font-family: arial;
+}
+#cuerpo{
+	width:1000px;
+	height:400px;
+	background:#ffff00;
+	color: green;
+	text-align: left;
+}  
+#fila1{
+    width: 1000px;
+	height: 50px;
+	background: #ffd4c4;
+	text-align: center;
+	color : black;
+	font-family: arial;
+	
+
+}
+#fila2{
+    width: 1000px;
+	height: 50px;
+	background: #e8ab9c;
+	text-align: center;
+	color : black;
+	font-family: arial;
+	
+
+}
+#fila3{
+    width: 1000px;
+	height: 50px;
+	background: #b2f3f4;
+	text-align: center;
+	color :black;
+	font-family: arial;
+	
+
+}
+#fila4{
+    width: 1000px;
+	height: 50px;
+	background: #ffb7bc;
+	text-align: center;
+	color : black;
+	font-family: arial;
+	
+
+}#fila5{
+    width: 1000px;
+	height: 50px;
+	background: #fff0e0;
+	text-align: center;
+	color : black;
+	font-family: arial;
+	
+}
+#fila6{
+    width: 1000px;
+	height: 50px;
+	background: #bb837c;
+	text-align: center;
+	color : black;
+	font-family: arial;}
+
+#fila7{
+    width: 1000px;
+	height: 50px;
+	background:#04b1c6;
+	text-align: center;
+	color : black;
+	font-family: arial;}
+
+li,l{
+	text-decoration: none;
+	 list-style:none;
+}
+#imagen{
+	text-align: center;
+}
+#form{
+	height:500px;
+	background:#00ffff;
+	color:black;
+	text-align: center;
+}
+#tabla{
+	width:1000px;
+	height:300px;
+	background:#e8ab9c;
+	text-align:center;
+}
